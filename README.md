@@ -23,6 +23,10 @@ Protótipo simples para um gerador de mapas OpenTibia com semente de ruído simp
 
 - É opcional modificar a semente do ruído e alterar alguns parâmetros de geração dentro do script de geração.
 
+# Como Usar conversor do mapa
+
+ClientID and ServerID map Converter, É simples: ele abre uma pequena janela do CMD, você coloca um mapa como entrada e, em seguida, retira seu mapa de saída, sem muitas delongas. É um processo direto e fácil.
+
 # Versão
 
 Versão 1.5.5. Este é um trabalho em andamento.
